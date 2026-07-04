@@ -16,6 +16,15 @@ and a real, documented engineering decision at its core.
 
 ---
 
+## 🌐 Applications Under Test
+
+| Application | URL | Used for |
+|-------------|-----|----------|
+| The North Face | https://www.thenorthface.com/ | Bot-safe smoke / navigation (production, PerimeterX-protected) |
+| Automation Exercise | https://automationexercise.com/ | Search, cart, checkout, auth & API E2E |
+
+---
+
 ## 📊 Latest Test Run
 
 **Allure report — 69 test cases, 100% passed** (4 m 56 s, 18 suites).
