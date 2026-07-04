@@ -1,4 +1,4 @@
-# NorthFace & automationexercise_Automation – BDD Test Automation Framework (Selenium · Cucumber · TestNG · RestAssured · JUnit)
+# NorthFace & Automationexercise – BDD Test Automation Framework (Selenium · Cucumber · TestNG · RestAssured · JUnit)
 
 [![CI](https://github.com/REZAULKARIM2024/NorthFace_Automation/actions/workflows/ci.yml/badge.svg)](https://github.com/REZAULKARIM2024/NorthFace_Automation/actions/workflows/ci.yml)
 ![Java](https://img.shields.io/badge/Java-17-red)
