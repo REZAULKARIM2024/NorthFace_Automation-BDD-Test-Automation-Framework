@@ -1,0 +1,2 @@
+# NorthFace_Automation-BDD-Test-Automation-Framework
+NorthFace_Automation –BDD Test report (Selenium · Cucumber · TestNG · RestAssured · JUnit)A robust, multi-layer test automation framework demonstrating modern QA/SDET practice — UI, End-to-End, API, Unit, Accessibility, Performance, and Security testing in one project, with 69 automated tests and a real, documented engineering decision at its core.
